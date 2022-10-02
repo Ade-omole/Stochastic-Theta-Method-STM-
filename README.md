@@ -1,1 +1,1 @@
-# Stochastic-Theta-Method-STM-
+# Numerical simulation of stochastic SIR model
